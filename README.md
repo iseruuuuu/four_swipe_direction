@@ -32,9 +32,6 @@ pubspec.yamlに以下のものを追加してください。
 Tap `Pub get` in your pubspec.yaml file.
 pubspec.yamlの上にある `Pub get`を押してください。
 
-flutter packages get
-
-
 ## Usage (使い方)
 
 ```
