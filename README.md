@@ -13,19 +13,19 @@ and the Flutter guide for
 
 ## FourSwipeDirection
 
-４方向（上・下・右・左）のスワイプが可能なパッケージ
-You can swipe 4 directions!!
+４方向（上・下・右・左）のスワイプが可能なパッケージ  
+You can swipe 4 directions!!  
 
 ## Getting started (パッケージの導入方法)
 
 <!-- 追加したもの -->
 ①
-Add the dependency to your pubspec.yaml file.
-pubspec.yamlに以下のものを追加してください。
-  dependencies:
-    flutter:
-      sdk: flutter
-    four_swipe_direction: 
+Add the dependency to your pubspec.yaml file.  
+pubspec.yamlに以下のものを追加してください。  
+  dependencies:  
+    flutter:  
+      sdk: flutter  
+    four_swipe_direction:   
 
 ②
 Tap `Pub get` in your pubspec.yaml file.
