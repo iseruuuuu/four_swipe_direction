@@ -14,9 +14,9 @@ and the Flutter guide for
 ## FourSwipeDirection
 
 ４方向（上・下・右・左）のスワイプが可能なパッケージ
+You can swipe 4 directions!!
 
-
-## Getting started パッケージの導入方法
+## Getting started (パッケージの導入方法)
 
 <!-- 追加したもの -->
 ①
@@ -34,7 +34,7 @@ pubspec.yamlの上にある `Pub get`を押してください。
 flutter packages get
 
 
-## Usage 使い方
+## Usage (使い方)
 
 ```
 FourSwipeDirection(
@@ -62,7 +62,7 @@ FourSwipeDirection(
 ),
 ```
 
-## Additional information 補足情報
+## Additional information (補足情報)
 
 ・必ずしも４方向に呼び出さなくても構いません。
 =>なぜなら４つの方向は、nullableになっているからです。
