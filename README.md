@@ -22,11 +22,12 @@ You can swipe 4 directions!!
 ①
 Add the dependency to your pubspec.yaml file.  
 pubspec.yamlに以下のものを追加してください。  
+```
   dependencies:  
     flutter:  
       sdk: flutter  
     four_swipe_direction:   
-
+```
 ②
 Tap `Pub get` in your pubspec.yaml file.
 pubspec.yamlの上にある `Pub get`を押してください。
