@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-## FourSwipeDirection
+# four_swipe_direction
 
 ４方向（上・下・右・左）のスワイプが可能なパッケージ  
 You can swipe 4 directions!!  
@@ -67,4 +67,4 @@ FourSwipeDirection(
 
 ・You don't need to use 4 swipe direction.  
 =>because 4 swipe direction is nullable 
-# four_swipe_direction
+
