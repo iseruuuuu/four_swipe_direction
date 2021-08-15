@@ -41,22 +41,18 @@ FourSwipeDirection(
   swipeUp: () {
   //上にスワイプしたときに呼び出されます。
   //Called when swiping up
-    print('上');
   },
   swipeDown: (){
   //下にスワイプしたときに呼び出されます。
   //Called when swiping down
-    print('下');
   },
   swipeLeft: () {
   //左にスワイプしたときに呼び出されます。
   //Called when swiping left
-    print('左');
   },
   swipeRight: () {
   //右にスワイプしたときに呼び出されます。
   //Called when swiping right
-    print('右');
   },
   child: Container(
     color: Colors.indigo,
