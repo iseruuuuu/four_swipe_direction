@@ -62,9 +62,9 @@ FourSwipeDirection(
 
 ## Additional information (補足情報)
 
-・必ずしも４方向に呼び出さなくても構いません。
+・必ずしも４方向に呼び出さなくても構いません。  
 =>なぜなら４つの方向は、nullableになっているからです。
 
-・You don't need to use 4 swipe direction.
+・You don't need to use 4 swipe direction.  
 =>because 4 swipe direction is nullable 
 # four_swipe_direction
