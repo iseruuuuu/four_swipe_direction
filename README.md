@@ -68,3 +68,5 @@ FourSwipeDirection(
 ・You don't need to use 4 swipe direction.  
 =>because 4 swipe direction is nullable 
 
+## Github  
+  https://github.com/iseruuuuu/four_swipe_direction
