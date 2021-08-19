@@ -11,6 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
+# Use this package as a library
+
 # four_swipe_direction
 
 ４方向（上・下・右・左）のスワイプが可能なパッケージ  
